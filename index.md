@@ -7,7 +7,10 @@ The link to my GitHub page can be accesses through clicking [*this button*](http
 *this is a cool picture of Geisel library* ![Geisel library](screenshot10.png)
 
 >Hello, world! (again)
+
+
 ***
+
 
 ## My top 3 favorite dining halls at UCSD:
 
