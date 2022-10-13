@@ -24,7 +24,7 @@ ___
 
 ## Step 3: Trying some Commands
 
-* After my successful login, I started experimenting with some commands such as cd and ls so that I can get more comfortable with using these terminal commands. Below is a screenshot of some of the commands that I tried to run on the remote server. 
+* After my successful login, I started experimenting with some commands such as cd and ls so that I can get more comfortable with using these terminal commands. Below is a screenshot of some of the commands that I tried to run on the remote server. **More detail about commands
 
 ![ExperimentWCommands](ExpWCommands.png)
 
@@ -36,7 +36,7 @@ ___
 
 ## Step 4: Moving Files with scp
 
-* After making sure that the WhoAmI class ran properly on my client, (I made sure that running the code printed out the properties of my personal computer), I typed in the scp command. This command moved the WhereAmI file to the remote server computer. I made sure that this command worked properly by running the code again on the remote server and making sure that the printed results were properties of the remote server and not my computer. 
+* After making sure that the WhoAmI class ran properly on my client, (I made sure that running the code printed out the properties of my personal computer), I typed in the scp command. This command moved the WhereAmI file to the remote server computer. I made sure that this command worked properly by running the code again on the remote server and making sure that the printed results were properties of the remote server and not my computer. ** I need to add more detail as to how to scp files.what commands did I use? what steps did I need to take in order to scp? did I type the command into the remote or local computer??
 
 ![WhereAmItosrve](WAISenttoServer.png)
 
