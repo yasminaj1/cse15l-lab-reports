@@ -26,6 +26,11 @@ ___
 
 * After my successful login, I started experimenting with some commands such as cd and ls so that I can get more comfortable with using these terminal commands. Below is a screenshot of some of the commands that I tried to run on the remote server. **More detail about commands
 
+One of the first commands that I tried was the ls -lat command that listed all the contents of my working directory in long format. Then I proceeded to try the ls command so that I can compare how the long format looks in comparision to the normal ls format. The ls command lists all files and directories that are in the current working directory. This revealed to me all the files that I had on my working directory on my local computer. I then tried the ls -a command that lists all contents in the working directory, including hidden files and directories. This gave me the same output as the first ls command because I had no hidden files or directories. I tehn tried the ls <directory> where <directory> is /home/linux/ieng6/cs15lfa22/cs15lfa22abc, where the abc is one of the other group members’ username. Then I tried doing this I got an error saying access denied. I think this might be due to the fact that I was connected to a remote server on my account so I would not have access to the contents of someone else’s directory. 
+ 
+
+
+
 ![ExperimentWCommands](ExpWCommands.png)
 
 * On a new window, I wrote down the code for the WhereAmI class. I then compiled it and made sure that it was running properly. Below is a screenshot of this.
@@ -37,6 +42,8 @@ ___
 ## Step 4: Moving Files with scp
 
 * After making sure that the WhoAmI class ran properly on my client, (I made sure that running the code printed out the properties of my personal computer), I typed in the scp command. This command moved the WhereAmI file to the remote server computer. I made sure that this command worked properly by running the code again on the remote server and making sure that the printed results were properties of the remote server and not my computer. ** I need to add more detail as to how to scp files.what commands did I use? what steps did I need to take in order to scp? did I type the command into the remote or local computer??
+
+
 
 ![WhereAmItosrve](WAISenttoServer.png)
 
