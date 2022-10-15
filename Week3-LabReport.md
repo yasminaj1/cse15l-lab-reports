@@ -4,7 +4,8 @@
 ___
 My code for creating the simplest search engine is:
 
-```import java.io.IOException;
+```
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
