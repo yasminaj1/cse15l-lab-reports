@@ -5,6 +5,7 @@ ___
 My code for creating the simplest search engine is:
 
 ```
+
 import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
@@ -46,7 +47,10 @@ class SearchEngine {
         Server.start(port, new Handler());
     }
 } 
+
 ```
+
+
 This allowed me to create a simple search engine that allowed me to add items to the array searchRequests and eventually print them out. Below is a screenshot of the website page as soon as you put in the URL for the local host. 
 
 ![firstthingonwebsite](firstwebsite.png)
