@@ -15,4 +15,4 @@ The command that I used here was:
 ```
 grep -i "website" find-results.txt
 ```
-As can be seen in the screenshot of the input command and the output, 
+As can be seen in the screenshot of the input command and the output, when I ran the first command without the -i, nothing was returned because teh word "Website" that was used in the file was written in upper case, whereas when I wrote it on the grep command it was in lower case. However when I ran the command again with the -i, I got an output because the command was able to ignore the case. 
